@@ -1,0 +1,13 @@
+body {
+    background: ivory;
+}
+
+input {
+  transition: all 1s ease;
+    color: blue;
+}
+
+
+input:hover {
+  color: ivory;
+}
